@@ -1,0 +1,10 @@
+Jun 05, 2015 8:11:01 PM org.glassfish.grizzly.http.server.NetworkListener start
+INFO: Started listener bound to [127.0.0.1:5012]
+Jun 05, 2015 8:11:01 PM org.glassfish.grizzly.http.server.HttpServer start
+INFO: [HttpServer] Started.
+Jun 05, 2015 8:11:01 PM org.glassfish.grizzly.http.server.NetworkListener shutdownNow
+INFO: Stopped listener bound to [127.0.0.1:5012]
+Jun 05, 2015 8:11:03 PM org.glassfish.grizzly.http.server.NetworkListener start
+INFO: Started listener bound to [127.0.0.1:5012]
+Jun 05, 2015 8:11:03 PM org.glassfish.grizzly.http.server.HttpServer start
+INFO: [HttpServer] Started.

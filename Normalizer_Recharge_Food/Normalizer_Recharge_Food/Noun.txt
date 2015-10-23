@@ -1,0 +1,7 @@
+paytm
+airtel
+aircel
+vodafone
+videocon
+uninor
+indicom
